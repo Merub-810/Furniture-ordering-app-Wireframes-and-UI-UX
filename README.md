@@ -17,7 +17,7 @@ https://www.figma.com/file/UDqbmoPbbMc3RhsCOYHuJF/Furniture-app-Wireframe?type=d
 <br>
 <img src="https://github.com/Merub-810/Furniture-ordering-app-Wireframes-and-UI-UX/assets/131784023/dd47d19c-50a1-4525-a78e-2b8d8d65b537">
 <h1>UI Demo video</h1>
-![Studio_Project.mp4](https://github.com/Merub-810/Furniture-ordering-app-Wireframes-and-UI-UX/assets/131784023/55147356-5fbd-4833-b2b3-53cdb2694ded)
+https://github.com/Merub-810/Furniture-ordering-app-Wireframes-and-UI-UX/assets/131784023/55147356-5fbd-4833-b2b3-53cdb2694ded
 
 
 
